@@ -1,7 +1,7 @@
 import re
 import requests
 
-GEMINI_API_KEY = "AIzaSyCTcWkbPvwBzb3Sx4QWifxS0VoBuFx2ick"
+GEMINI_API_KEY = ""
 # Use free model endpoint
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
 
